@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💼 I'm Vinicius Fabiano Silva<br>🔭 I’m currently working on AngularJS / Django<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React/django<br>
+👨‍💼 I'm Vinicius Fabiano Silva<br>🔭 I’m currently working on ReactJS / NestJS<br>🌱 I’m currently learning React/django<br>
 
 
 ## 🌐 Socials:
